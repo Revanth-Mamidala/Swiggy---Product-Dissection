@@ -69,6 +69,10 @@ The schema for Swiggy involves multiple entities representing different aspects 
 
 Created an Entity-Relationship (ER) diagram to clearly illustrate the connections and characteristics of the elements in the Swiggy database structure. This ER diagram will act as a visual guide, highlighting the essential parts of Swiggy's data architecture. Utilising this diagram will help us understand the complex relationships and interactions that shape the functioning of the platform.
 
+![ER Diagram](https://github.com/user-attachments/assets/c83db01d-57f9-4fec-a8c6-8a43484d08ef)
+
+
+
 **Conclusion**:
 
 In this case study, we delved into the design of Swiggy's schema and Entity-Relationship diagram. This product dissection of Swiggy highlights its innovative solutions to real-world problems through its user-centric features and robust platform. The schema design supports the functionality and user experience by organising and managing data effectively, ensuring a seamless food ordering and delivery service. Swiggy’s continuous innovation and focus on user needs have positioned it as a leading player in the online food delivery industry.
