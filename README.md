@@ -5,8 +5,7 @@
 Swiggy, founded in 2014, is one of India's leading online food delivery platforms. Swiggy is headquartered in Bangalore and operates in more than 580 Indian cities. It connects users with a variety of restaurants and food outlets in their locality, offering a convenient and efficient way to order food. With its user-friendly interface and vast network of delivery partners, Swiggy has become a household name in the online food delivery industry in India.
 Besides food delivery, the platform also provides on-demand grocery deliveries under the name Instamart, and a same-day package delivery service called Swiggy Genie. The business model of Swiggy is based on a hyper-local on-demand food delivery business model. It makes use of modern technology and techniques to satisfy the growing demand for foodies in the market.
 
-******Product Dissection and Real-World Problems Solved by Swiggy:
-******
+**Product Dissection and Real-World Problems Solved by Swiggy:**
 
 Swiggy addresses several real-world challenges through its innovative features and services: 
 
@@ -61,11 +60,12 @@ Swiggy's Solution:
 
 Swiggy’s efficient logistics and real-time order tracking system ensure that deliveries are timely. The platform provides updates on the status of the order, giving users confidence in the service.
 
-**Schema Description: **
+**Schema Description:**
 
 The schema for Swiggy involves multiple entities representing different aspects of the platform. These entities include Users, Restaurants, Orders, Items, Delivery Partners, Promotions and Payment.
 
-**ER Diagram: **
+
+**ER Diagram:**
 
 Created an Entity-Relationship (ER) diagram to clearly illustrate the connections and characteristics of the elements in the Swiggy database structure. This ER diagram will act as a visual guide, highlighting the essential parts of Swiggy's data architecture. Utilising this diagram will help us understand the complex relationships and interactions that shape the functioning of the platform.
 
